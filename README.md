@@ -2,8 +2,8 @@
 <i>Developed by Sukeesh</i><br>
 <b><i>
 About :</i></b><br>
-Compares two SPOJ users ( i.e., The no. of Problems Solved and Solved by user1 , not solved by user2 ).<br>
-Still in developing mode.
+Compares two SPOJ users ( i.e., The no. of Problems Solved by two users and Problems solved by user1 , not solved by user2 ).<br>
+Still in developing mode.<br>
 <b><u>Prequisites for Running this Script</u> :</b><br><br>
 Beautiful Soup 3, It’s currently packaged with all major Linux distributions:
 ```bash
