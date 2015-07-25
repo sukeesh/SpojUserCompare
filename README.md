@@ -1,5 +1,9 @@
 #SpojUserCompare
 <i>Developed by Sukeesh</i><br>
+<b><i>
+About :</i></b><br>
+Compares two SPOJ users ( i.e., The no. of Problems Solved and Solved by user1 , not solved by user2 ).<br>
+Still in developing mode.
 <b><u>Prequisites for Running this Script</u> :</b><br><br>
 Beautiful Soup 3, It’s currently packaged with all major Linux distributions:
 ```bash
@@ -29,8 +33,5 @@ Running this script :</i></b><br>
 3. It will automatically install all the Required packages<br>
 4. At Present, It doesn't have an UI.<br>
 5. Still, It has many things to be added
-<br><br><b><i>
-About this script :</i></b><br>
-Compares two SPOJ users ( i.e., The no. of Problems Solved and Solved by user1 , not solved by user2 ).<br>
-Still in developing mode.
+<br><br>
 
