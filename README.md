@@ -1,5 +1,5 @@
 #SpojUserCompare
-<i>Developed by Sukeesh</i>
+<i>Developed by Sukeesh</i><br>
 <b><u>Prequisites for Running this Script</u> :</b><br><br>
 Beautiful Soup 3, It’s currently packaged with all major Linux distributions:
 ```bash
